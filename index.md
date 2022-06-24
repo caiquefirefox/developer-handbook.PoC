@@ -1,0 +1,28 @@
+# Bem vindo ao manual do desenvolvedor!
+
+## Aqui você encontra:
+
+- [Arquitetura]()
+  -	[Clean Arch](architecture/clean-arch.md)
+  -	[Domain Driven Design]()
+  -	[Estrutura de Pastas & Arquivos]()
+  -	[Pirâmide de Acesso]()
+  -	[Microcomponentes]()
+  -	[Data Management]()
+  -	[The Twelve-Factor App]()
+  -	[Circuit Breaker]()
+  -	[Service Mesh]()
+    - [Consul Service Mesh]()
+  -	[Service Discovery]()
+  	- [Consul Service Discovery]()
+- [Boas Práticas]()
+- [Local Development]()
+- [Back-end]()
+- [Front-end]()
+- [Logging]()
+- [API]()
+- [Database]()
+- [Testing]()
+- [Git]()
+- [Identity and Access Management (IAM) * Rascunho]()
+- [Container *Rascunho]()
