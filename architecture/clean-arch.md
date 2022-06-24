@@ -59,3 +59,6 @@ Então, quando passamos dados através de um limite, é sempre na forma que é m
 
 ## Conclusão
 Conformar-se com essas regras simples não é difícil e vai lhe poupar muitas dores de cabeça daqui para frente. Ao separar o software em camadas e em conformidade com a Regra de Dependência , você criará um sistema que é intrinsecamente testável, com todos os benefícios que isso implica. Quando qualquer uma das partes externas do sistema se tornar obsoleta, como o banco de dados ou a estrutura da Web, você poderá substituir esses elementos obsoletos com um mínimo de confusão.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BuSf7VsH064" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
